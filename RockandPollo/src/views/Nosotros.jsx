@@ -27,6 +27,7 @@ const Nosotros = () => {
     }, [])
     return (
         <div>
+            <h1 className="m-3 text-center">Quienes somos</h1>
                 <div className="container">
                     <div className="row justify-content-center m-5">
                     <div className="col-md-6 col-lg-5 col-12 ft-1">
