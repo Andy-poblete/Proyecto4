@@ -1,8 +1,28 @@
-# React + Vite
+# Proyecto 4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El proyecto esta enfocado a un restaurante en el cual tiene un inicio, un menu y sobre nosotro.
 
-Currently, two official plugins are available:
+Se utilizaron elementos de boooststarp:
+-(https://getbootstrap.com/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-reactbooststrap (https://react-bootstrap.github.io/).
+
+Los paquetes instalados y comandos utilizados fueron:
+
+-git init
+
+-git add .
+
+-git commit -m ""
+
+-git push origin master
+
+-npm create vite@latest
+
+-cd (nombre de la carpeta a ingresar)
+
+-npm install react-bootstrap bootstrap
+
+-npm i react-router-dom
+
+Las tecnologías utilizadas fueron HTML, CSS, JavaScript y REACT.
